@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/real-folkblues/HTML-Me-Something_with_oneko.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
