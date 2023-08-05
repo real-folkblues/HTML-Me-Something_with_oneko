@@ -4,7 +4,7 @@ body {
 }
 
 #mainHeading {
-    color: red;
+    color: rgba(80, 48, 99, 0.623);
 }
 
 h1 {
@@ -20,4 +20,4 @@ p {
 
 .funParagraph {
     color: green;
-}
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
