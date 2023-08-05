@@ -8,3 +8,6 @@
 [remote "origin"]
 	url = https://github.com/real-folkblues/HTML-Me-Something_with_oneko.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main

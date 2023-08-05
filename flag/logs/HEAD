@@ -1,2 +1,6 @@
 0000000000000000000000000000000000000000 564db65cd69149aedfa920369f98ba5129b202b6 real-folkblues <marenicolor@gmail.com> 1691107486 -0400	commit (initial): initialized local repo, created remote repo and linked, added assignment files with oneko, first push to remote repo
 564db65cd69149aedfa920369f98ba5129b202b6 7883030b5885e441487408bd2c6889d60b5e05ee real-folkblues <marenicolor@gmail.com> 1691113295 -0400	commit: did this work
+7883030b5885e441487408bd2c6889d60b5e05ee ea7a47c68221fecc33a57b87bec8f8992ebfa7c6 real-folkblues <marenicolor@gmail.com> 1691258474 -0400	commit: changed colors and added fonts in css file
+ea7a47c68221fecc33a57b87bec8f8992ebfa7c6 0000000000000000000000000000000000000000 real-folkblues <marenicolor@gmail.com> 1691267248 -0400	Branch: renamed refs/heads/main to refs/heads/main
+ea7a47c68221fecc33a57b87bec8f8992ebfa7c6 ea7a47c68221fecc33a57b87bec8f8992ebfa7c6 real-folkblues <marenicolor@gmail.com> 1691267248 -0400	Branch: renamed refs/heads/main to refs/heads/main
+ea7a47c68221fecc33a57b87bec8f8992ebfa7c6 70d78225363c4f1d70c8ed25cbc1c279b08b63ca real-folkblues <marenicolor@gmail.com> 1691270712 -0400	pull: Fast-forward

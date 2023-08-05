@@ -1,23 +1,50 @@
-body {
-    border: 1px solid black;
-    background-color: rgb(221, 170, 231);
+
+.b {
+    color: rgba(80, 48, 99, 0.623);
+    font-weight: 300;
+    line-height: 2.0;
+    font-size: medium;
 }
 
-#mainHeading {
-    color: rgba(80, 48, 99, 0.623);
-}
 
 h1 {
     color: rgb(65, 52, 100);
+    text-align: center;
+    
 }
 
+title {
+    color: rgba(80, 48, 99, 0.623);
+    font-weight: 400;
+    line-height: 2.0;
+    font-size: large;
+}
 
-p {
-    color: rgb(6, 59, 28);
-    margin: 8px;
-    display: block;
+body {
+    border: 1px solid black;
+    background-color: rgb(221, 170, 231);
+    text-align: center;
 }
 
 .funParagraph {
-    color: green;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(8, 6, 53);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 1.0;
+}
+
+a.link {
+        background-color: yellow;
+        font-weight: 300;
+    line-height: 2.0;
+    font-size: medium;
+
+}
+
+
+article:visited {
+        background-color: cyan;
+      }
+      
+      article:hover {
+        background-color: lightgreen;
+}
